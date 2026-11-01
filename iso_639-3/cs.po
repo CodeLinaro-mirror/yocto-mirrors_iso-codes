@@ -16,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2026-10-29 23:17+0000\n"
+"PO-Revision-Date: 2026-11-02 05:19+0000\n"
 "Last-Translator: Jindřich Šesták <khagaroth@users.noreply.hosted.weblate.org>"
 "\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/iso-639-"
@@ -24486,7 +24486,7 @@ msgstr ""
 
 #. Name for nso
 msgid "Pedi"
-msgstr ""
+msgstr "severosothština"
 
 #. Name for nsp
 msgid "Nepalese Sign Language"
