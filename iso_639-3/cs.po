@@ -16,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2026-11-02 05:19+0000\n"
+"PO-Revision-Date: 2026-11-06 09:42+0000\n"
 "Last-Translator: Jindřich Šesták <khagaroth@users.noreply.hosted.weblate.org>"
 "\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/iso-639-"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.11.2.dev0\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -615,11 +615,11 @@ msgstr "afrikánština"
 
 #. Name for afs
 msgid "Afro-Seminole Creole"
-msgstr ""
+msgstr "afro-seminolská kreolština"
 
 #. Inverted name for afs
 msgid "Creole, Afro-Seminole"
-msgstr ""
+msgstr "kreolština, afro-seminolská"
 
 #. Name for aft
 msgid "Afitti"
@@ -874,11 +874,11 @@ msgstr ""
 
 #. Name for aii
 msgid "Assyrian Neo-Aramaic"
-msgstr ""
+msgstr "asyrská novoaramejština"
 
 #. Inverted name for aii
 msgid "Neo-Aramaic, Assyrian"
-msgstr ""
+msgstr "novoaramejština, asyrská"
 
 #. Name for aij
 #, fuzzy
@@ -1137,14 +1137,12 @@ msgid "Amblong"
 msgstr ""
 
 #. Name for aln
-#, fuzzy
 msgid "Gheg Albanian"
-msgstr "albánština"
+msgstr "gegština"
 
 #. Inverted name for aln
-#, fuzzy
 msgid "Albanian, Gheg"
-msgstr "albánština"
+msgstr "gegština"
 
 #. Name for alo
 msgid "Larike-Wakasihu"
@@ -1165,14 +1163,12 @@ msgid "Alutor"
 msgstr "aleutština"
 
 #. Name for als
-#, fuzzy
 msgid "Tosk Albanian"
-msgstr "albánština"
+msgstr "toskičtina"
 
 #. Inverted name for als
-#, fuzzy
 msgid "Albanian, Tosk"
-msgstr "albánština"
+msgstr "toskičtina"
 
 #. Name for alt
 #, fuzzy
@@ -1308,12 +1304,11 @@ msgstr ""
 
 #. Name for amw
 msgid "Western Neo-Aramaic"
-msgstr ""
+msgstr "západní novoaramejština"
 
 #. Inverted name for amw
-#, fuzzy
 msgid "Neo-Aramaic, Western"
-msgstr "fríština"
+msgstr "novoaramejština, západní"
 
 #. Name for amx
 msgid "Anmatyerre"
@@ -1353,12 +1348,10 @@ msgid "Animere"
 msgstr ""
 
 #. Name for ang
-#, fuzzy
 msgid "Old English (ca. 450-1100)"
-msgstr "angličtina, stará (cca 450-1100)"
+msgstr "stará angličtina (cca 450-1100)"
 
 #. Inverted name for ang
-#, fuzzy
 msgid "English, Old (ca. 450-1100)"
 msgstr "angličtina, stará (cca 450-1100)"
 
@@ -1744,11 +1737,11 @@ msgstr "arabština, spisovná"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE)"
-msgstr ""
+msgstr "říšská aramejština (700-300 př. n. l.)"
 
 #. Inverted name for arc
 msgid "Aramaic, Official (700-300 BCE)"
-msgstr ""
+msgstr "aramejština, říšská (700-300 př. n. l.)"
 
 #. Name for ard
 #, fuzzy
@@ -2634,11 +2627,11 @@ msgstr "turečtina"
 
 #. Name for bah
 msgid "Bahamas Creole English"
-msgstr ""
+msgstr "bahamská kreolština"
 
 #. Inverted name for bah
 msgid "Creole English, Bahamas"
-msgstr ""
+msgstr "kreolština, bahamská"
 
 #. Name for baj
 #, fuzzy
@@ -5616,11 +5609,11 @@ msgstr "baskičtina"
 
 #. Name for bzj
 msgid "Belize Kriol English"
-msgstr ""
+msgstr "belizská kreolština"
 
 #. Inverted name for bzj
 msgid "Kriol English, Belize"
-msgstr ""
+msgstr "kreolština, belizská"
 
 #. Name for bzk
 msgid "Nicaragua Creole English"
@@ -6876,13 +6869,12 @@ msgid "Greek, Cappadocian"
 msgstr ""
 
 #. Name for cpi
-#, fuzzy
 msgid "Chinese Pidgin English"
-msgstr "znakové jazyky"
+msgstr "čínská pidžin angličtina"
 
 #. Inverted name for cpi
 msgid "Pidgin English, Chinese"
-msgstr ""
+msgstr "pidžin angličtina, čínská"
 
 #. Name for cpn
 #, fuzzy
@@ -9386,13 +9378,12 @@ msgid "Enlhet"
 msgstr ""
 
 #. Name for enm
-#, fuzzy
 msgid "Middle English (1100-1500)"
-msgstr "angličtina, středověká (1100-1500)"
+msgstr "střední angličtina (1100-1500)"
 
 #. Inverted name for enm
 msgid "English, Middle (1100-1500)"
-msgstr "angličtina, středověká (1100-1500)"
+msgstr "angličtina, střední (1100-1500)"
 
 #. Name for enn
 msgid "Engenni"
@@ -10459,11 +10450,11 @@ msgstr ""
 
 #. Name for gcl
 msgid "Grenadian Creole English"
-msgstr ""
+msgstr "grenadská kreolština"
 
 #. Inverted name for gcl
 msgid "Creole English, Grenadian"
-msgstr ""
+msgstr "kreolština, grenadská"
 
 #. Name for gcn
 #, fuzzy
@@ -11339,13 +11330,12 @@ msgid "Gupa-Abawa"
 msgstr ""
 
 #. Name for gpe
-#, fuzzy
 msgid "Ghanaian Pidgin English"
-msgstr "znakové jazyky"
+msgstr "ghanská pidžin angličtina"
 
 #. Inverted name for gpe
 msgid "Pidgin English, Ghanaian"
-msgstr ""
+msgstr "pidžin angličtina, ghanská"
 
 #. Name for gpn
 #, fuzzy
@@ -11601,11 +11591,11 @@ msgstr ""
 
 #. Name for gul
 msgid "Sea Island Creole English"
-msgstr ""
+msgstr "gullah"
 
 #. Inverted name for gul
 msgid "Creole English, Sea Island"
-msgstr ""
+msgstr "gullah"
 
 #. Name for gum
 #, fuzzy
@@ -11847,11 +11837,11 @@ msgstr ""
 
 #. Name for gyn
 msgid "Guyanese Creole English"
-msgstr ""
+msgstr "guyanská kreolština"
 
 #. Inverted name for gyn
 msgid "Creole English, Guyanese"
-msgstr ""
+msgstr "kreolština, guyanská"
 
 #. Name for gyo
 msgid "Gyalsumdo"
@@ -12915,11 +12905,11 @@ msgstr ""
 
 #. Name for hwc
 msgid "Hawai'i Creole English"
-msgstr ""
+msgstr "havajská kreolština"
 
 #. Inverted name for hwc
 msgid "Creole English, Hawai'i"
-msgstr ""
+msgstr "kreolština, havajská"
 
 #. Name for hwo
 #, fuzzy
@@ -13801,11 +13791,11 @@ msgstr ""
 
 #. Name for jam
 msgid "Jamaican Creole English"
-msgstr ""
+msgstr "jamajská kreolština"
 
 #. Inverted name for jam
 msgid "Creole English, Jamaican"
-msgstr ""
+msgstr "kreolština, jamajská"
 
 #. Name for jan
 #, fuzzy
@@ -18186,13 +18176,12 @@ msgid "Libido"
 msgstr ""
 
 #. Name for lir
-#, fuzzy
 msgid "Liberian English"
-msgstr "angličtina"
+msgstr "liberijská angličtina"
 
 #. Inverted name for lir
 msgid "English, Liberian"
-msgstr ""
+msgstr "angličtina, liberijská"
 
 #. Name for lis
 msgid "Lisu"
@@ -25063,14 +25052,12 @@ msgid "Noakhali"
 msgstr "nepálština"
 
 #. Name for oar
-#, fuzzy
 msgid "Old Aramaic (up to 700 BCE)"
-msgstr "irština, stará (do 900)"
+msgstr "irština, stará (do 900 př. n. l.)"
 
 #. Inverted name for oar
-#, fuzzy
 msgid "Aramaic, Old (up to 700 BCE)"
-msgstr "irština, stará (do 900)"
+msgstr "irština, stará (do 900 př. n. l.)"
 
 #. Name for oav
 msgid "Old Avar"
@@ -31451,11 +31438,11 @@ msgstr ""
 
 #. Name for svc
 msgid "Vincentian Creole English"
-msgstr ""
+msgstr "vincencká kreolština"
 
 #. Inverted name for svc
 msgid "Creole English, Vincentian"
-msgstr ""
+msgstr "kreolština, vincencká"
 
 #. Name for sve
 #, fuzzy
@@ -32475,11 +32462,11 @@ msgstr ""
 
 #. Name for tgh
 msgid "Tobagonian Creole English"
-msgstr ""
+msgstr "tobagoská kreolština"
 
 #. Inverted name for tgh
 msgid "Creole English, Tobagonian"
-msgstr ""
+msgstr "kreolština, tobagoská"
 
 #. Name for tgi
 msgid "Lawunuia"
@@ -33617,11 +33604,11 @@ msgstr ""
 
 #. Name for trf
 msgid "Trinidadian Creole English"
-msgstr ""
+msgstr "trinidadská kreolština"
 
 #. Inverted name for trf
 msgid "Creole English, Trinidadian"
-msgstr ""
+msgstr "kreolština, trinidadská"
 
 #. Name for trg
 msgid "Lishán Didán"
